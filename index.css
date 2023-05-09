@@ -38,5 +38,7 @@
     display: block;
     wight: 400px;
     height: 400px;
-    background-color: green;}
+    background-color: green;
+    border-radius: 50%
+}
 
