@@ -1,0 +1,35 @@
+#botao-opcoes {
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #opcoes-container {
+    position: relative;
+  }
+  
+  #opcoes-lista {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+  }
+  
+  #opcoes-lista li {
+    margin-bottom: 5px;
+  }
+  
+  #opcoes-lista li a {
+    color: blue;
+    text-decoration: none;
+  }
+  
