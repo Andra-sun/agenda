@@ -36,9 +36,9 @@
 
   #noon{
     display: block;
-    wight: 200px;
-    height: 200px;
-    background-color: pink;
+    wight: 100px;
+    height: 100px;
+    background-color: green;
     border-radius: 10%
 }
 
