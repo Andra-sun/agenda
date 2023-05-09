@@ -34,9 +34,9 @@
   }
   
 
-#noon{
+  #noon{
     display: block;
     weight: 400px;
     height: 400px;
-    background collor: green;
-    }
+    background-color: green;}
+
