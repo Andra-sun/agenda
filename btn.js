@@ -9,4 +9,13 @@ botao.addEventListener('click', function() {
   }
 });
 
+const opcao1 = document.querySelector('#opcoes-lista li:first-child a');
+
+opcao1.addEventListener('click', function(event) {
+  // impede que o navegador siga o link normalmente
+  event.preventDefault();
+  
+  // atualiza a página com outras informações
+  window.location.href = 'html/outros.html';
+});
 
